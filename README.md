@@ -294,21 +294,3 @@ You’re welcome to contribute!
 git clone https://github.com/yourusername/data-structure-cheatsheet.git
 cd data-structure-cheatsheet
 ```
-
-Submit your changes via Pull Request 🚀
-
----
-
-## ⭐ Acknowledgements
-
-Created with ❤️ by [**Ritul Singh**](https://github.com/ritulsingh)
-If this helped you — don’t forget to **star** ⭐ the repo!
-
----
-
-Would you like me to:
-
-* Add **GitHub badges** (e.g., “Made with C”, “Open Source”, “MIT License”), and
-* Include **a visual section with icons/diagrams** (like a flow of arrays → lists → trees → sorting)?
-
-That would make the README look like a professional open-source handbook.
